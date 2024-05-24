@@ -594,7 +594,7 @@ export async function participantsUpdate({
                         title: global.botname,
                         body: "Welcome",
                         thumbnailUrl: welcomeApiUrl,
-                        sourceUrl: 'https://chat.whatsapp.com/Jo5bmHMAlZpEIp75mKbwxP',
+                        sourceUrl: 'https://chat.whatsapp.com/K6j6xmYolmqEEos38OUKmk',
                         mediaType: 1,
                         renderLargerThumbnail: true
                         }}})
