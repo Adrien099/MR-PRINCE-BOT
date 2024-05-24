@@ -36,29 +36,29 @@ let greeting = ucapan()
 let quote = quotes[Math.floor(Math.random() * quotes.length)];
 
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
-let str = ` *🛡️PЯINCΣ-BOT-MÐ🛡️*
+let str = ` *🛡️𝐁𝖾α𝗋 𝐁ⱺ𝗍🛡️*
 
 
-╭━⊱「Wᴇʟᴄᴏᴍᴇ ᴛᴏ ᴄᴏᴍᴍᴀɴᴅs ᴍᴇɴᴜ⊱━╮
+╭━⊱「𝐖𝖾ᥣ𝖼ⱺꭑ𝖾 𝐓ⱺ 𝐁𝖾α𝗋 𝐂ⱺꭑꭑα𐓣ᑯ 𝐌𝖾𐓣υ⊱━╮
 │
-│🕋✫ - 「${usedPrefix}𝘘𝘶𝘳𝘢𝘯𝘮𝘦𝘯𝘶
-│📚✫ - 「${usedPrefix}𝘚𝘵𝘶𝘥𝘺𝘮𝘦𝘯𝘶
-│🛡️✫ - 「${usedPrefix}𝘖𝘸𝘯𝘦𝘳𝘮𝘦𝘯𝘶
-│💌✫ - 「${usedPrefix}𝘉𝘰𝘵𝘮𝘦𝘯𝘶 
-│🧬✫ - 「${usedPrefix}𝘎𝘳𝘰𝘶𝘱𝘮𝘦𝘯𝘶
-│📥✫ - 「${usedPrefix}𝘋𝘭𝘮𝘦𝘯𝘶
-│🧰✫ - 「${usedPrefix}𝘛𝘰𝘰𝘭𝘮𝘦𝘯𝘶
-│🎨✫ - 「${usedPrefix}𝘚𝘵𝘪𝘤𝘬𝘦𝘳𝘮𝘦𝘯𝘶
-│🎉✫ - 「${usedPrefix}𝘍𝘶𝘯𝘮𝘦𝘯𝘶 
-│🎮✫ - 「${usedPrefix}𝘎𝘢𝘮𝘦𝘮𝘦𝘯𝘶
-│🎩✫ - 「${usedPrefix}𝘓𝘰𝘨𝘰𝘮𝘦𝘯𝘶
-│ *${usedPrefix}ᴍᴇɴᴜ2 ғᴏʀ ᴄᴏᴍᴍᴀɴᴅs ʟɪsᴛ*
-│ *${usedPrefix}ᴍᴇɴᴜ3 ғᴏʀ sᴘᴇᴄɪᴀʟ ᴍᴇɴᴜ ʟɪsᴛ*
-│ *${usedPrefix}ʟɪsᴛ ғᴏʀ ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅs ʟɪsᴛ*
+│🕋✫ - 「${usedPrefix}𝕼ᥙrᥲᥒ𝕸ᥱᥒᥙ
+│📚✫ - 「${usedPrefix}𝕾𝗍ᥙძᥡ𝕸ᥱᥒᥙ
+│🛡️✫ - 「${usedPrefix}𝕺ᥕᥒᥱr𝕸ᥱᥒᥙ
+│💌✫ - 「${usedPrefix}𝕭᥆𝗍𝕸ᥱᥒᥙ 
+│🧬✫ - 「${usedPrefix}𝕲r᥆ᥙ⍴𝕸ᥱᥒᥙ
+│📥✫ - 「${usedPrefix}𝕿᥆᥆ᥣ𝕸ᥱᥒᥙ
+│🧰✫ - 「${usedPrefix}𝕯ᥣ𝕸ᥱᥒᥙ
+│🎨✫ - 「${usedPrefix}𝕾𝗍іᥴkᥱr𝕸ᥱᥒᥙ
+│🎉✫ - 「${usedPrefix}𝕱ᥙᥒ𝕸ᥱᥒᥙ 
+│🎮✫ - 「${usedPrefix}𝕲ᥲmᥱ𝕸ᥱᥒᥙ
+│🎩✫ - 「${usedPrefix}𝕷᥆g᥆𝕸ᥱᥒᥙ
+│ *${usedPrefix}𝐌𝖾𐓣υ2 𝐅ⱺ𝗋 𝐁𝖾α𝗋 𝐂ⱺꭑꭑα𐓣ᑯ 𝐋𝗂𝗌𝗍*
+│ *${usedPrefix}𝐌𝖾𐓣υ3 𝐅ⱺ𝗋 𝐁𝖾α𝗋 𝐂ⱺꭑꭑα𐓣ᑯ 𝐋𝗂𝗌𝗍*
+│ *${usedPrefix}𝐋𝗂𝗌𝗍 𝐅ⱺ𝗋 𝐀ᥣᥣ 𝐂ⱺꭑꭑα𐓣ᑯ 𝐋𝗂𝗌𝗍*
 │
 │ *${greeting}*
 ╰━━━━━━━━━━━━━━━━━━━━━━━━╯
-📚 *_Quote of the day: ${quote}_* 📚
+📚 *_𝐁𝖾α𝗋 𝐐υⱺ𝗍𝖾 𝐎𝖿 𝐓ɦ𝖾 𝐃α𝗒: ${quote}_* 📚
 `
 
 
