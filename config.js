@@ -125,30 +125,30 @@ global.developer = 'https://wa.me/message/DCAK67ON3XVOG1' //contact
 
 //Sticker WM
 global.botname = process.env.BOT_NAME
-global.princebot = '🛡️𝐁𝖾α𝗋🛡️'
-global.packname = '𝐁𝖾α𝗋♥️' 
-global.author = '𝐁𝖾α𝗋♥️' 
-global.princeig = 'https://www.instagram.com' 
-global.princegp = 'https://chat.whatsapp.com/K6j6xmYolmqEEos38OUKmk'
-global.menuvid = 'https://i.imgur.com/BioI4l6.mp4'
+global.adrienbot = '𝐀𝐃𝐑𝐈𝐄𝐍〄'
+global.packname = '𝐀𝖽𝗋𝗂𝖾𝗇' 
+global.author = '♡' 
+global.adrienig = 'https://www.instagram.com/_.thvxd?igsh=MTBiZHJ0eXNsNGJ6OA==' 
+global.adriengp = 'https://chat.whatsapp.com/LYLdNZc3krGJKpakriA16S'
+global.menuvid = 'https://imgur.com/a/SarI40v'
 global.Princesc = 'https://github.com' 
 global.princeyt = 'https://youtube.com/'
-global.Princelog = 'https://i.imgur.com/cUvIv5w.jpeg'
+global.Princelog = 'https://imgur.com/a/rViJ2fT'
 global.thumb = fs.readFileSync('./Assets/Prince.png')
 //💌------------------------------------------💌
 
 
 
 //Reactions
-global.wait = '*♻️ _ 𝐁𝖾α𝗋 𝙶𝙴𝚃𝚃𝙸𝙽𝙶 𝚈𝙾𝚄𝚁 𝙵𝙸𝙻𝙴 𝚆𝙰𝙸𝚃..._*\n*▰▰▰▱▱▱▱▱*'
-global.imgs = '*🖼️ _𝐁𝖾α𝗋 𝙶𝙴𝚃𝚃𝙸𝙽𝙶 𝚈𝙾𝚄𝚁 ɪᴍᴀɢᴇs 𝚆𝙰𝙸𝚃..._*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*♻️ _ 𝐖𝐚𝐢𝐭 𝐬𝐞𝐧𝐩𝐚𝐢 🥰..._*\n*▰▰▰▱▱▱▱▱*'
+global.imgs = '*🖼️ _ 𝐖𝐚𝐢𝐭 𝐧𝐚𝐡 🤧..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '♻️'
 global.dmoji = '🤭'
 global.done = '✅'
 global.error = '❌' 
 global.xmoji = '🌀' 
 global.multiplier = 69 
-global.maxwarn = '2' 
+global.maxwarn = '3' 
 //💌------------------------------------------💌
 
 
