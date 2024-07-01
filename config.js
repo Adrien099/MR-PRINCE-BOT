@@ -126,10 +126,10 @@ global.developer = 'https://wa.me/message/DCAK67ON3XVOG1' //contact
 //Sticker WM
 global.botname = process.env.BOT_NAME
 global.adrienbot = '𝐀𝐃𝐑𝐈𝐄𝐍〄'
-global.packname = '𝐀𝖽𝗋𝗂𝖾𝗇' 
-global.author = '♡' 
+global.packname = 'Made by' 
+global.author = '𝆺𝅥 𝇁 ֹ 𝄄 س ꓹ 𝚫𝐃𝐑𝐈𝚵𝚴 𓂃🧣' 
 global.adrienig = 'https://www.instagram.com/_.thvxd?igsh=MTBiZHJ0eXNsNGJ6OA==' 
-global.adriengp = 'https://chat.whatsapp.com/LYLdNZc3krGJKpakriA16S'
+global.adriengp = 'https://chat.whatsapp.com/EZjCgLTJfRd8LHOyVC163u'
 global.menuvid = 'https://imgur.com/a/rViJ2fT'
 global.Princesc = 'https://github.com' 
 global.princeyt = 'https://youtube.com/'
@@ -140,8 +140,8 @@ global.thumb = fs.readFileSync('./Assets/Prince.png')
 
 
 //Reactions
-global.wait = '*♻️ _ 𝐖𝐚𝐢𝐭 𝐬𝐞𝐧𝐩𝐚𝐢 🥰..._*\n*▰▰▰▱▱▱▱▱*'
-global.imgs = '*🖼️ _ 𝐖𝐚𝐢𝐭 𝐧𝐚𝐡 🤧..._*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*♻️ _𝐖𝐚𝐢𝐭 𝐬𝐞𝐧𝐩𝐚𝐢 🥰..._*\n*▰▰▰▱▱▱▱▱*'
+global.imgs = '*🖼️ _𝐖𝐚𝐢𝐭 𝐧𝐚𝐡 🤧..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '♻️'
 global.dmoji = '🤭'
 global.done = '✅'
