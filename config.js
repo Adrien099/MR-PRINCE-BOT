@@ -135,7 +135,7 @@ global.multiplier = 69
 global.maxwarn = '2' 
 //💌------------------------------------------💌
 
-global.SESSION_ID =
+global.SESSION_ID = ''
   process.env.SESSION_ID ||
 
 
